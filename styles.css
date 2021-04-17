@@ -1,0 +1,30 @@
+.namegame{
+    text-align: center;
+    color: rgb(107, 199, 104);
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 3%;
+    text-shadow: 2px 2px rgb(199, 135, 83);
+    
+}
+.game {
+    text-align: center;
+  
+}
+
+#button {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  #random{
+      width: 190px;
+      height: 33px;
+  }
+ 
